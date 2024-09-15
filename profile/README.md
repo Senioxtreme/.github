@@ -1,5 +1,3 @@
-# Senioxtreme
-
 ## Chi Siamo
 
 [Senioxtreme](https://senioxtreme.it) è un'associazione senza scopo di lucro che promuove la valorizzazione del territorio, il benessere delle persone e l'innovazione digitale. Crediamo nell'importanza della connessione tra comunità, natura e tecnologia per creare un futuro sostenibile e inclusivo.
