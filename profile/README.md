@@ -1,10 +1,10 @@
-## Chi Siamo
 
-[Senioxtreme](https://senioxtreme.it) è un'associazione senza scopo di lucro che promuove la valorizzazione del territorio, il benessere delle persone e l'innovazione digitale. Crediamo nell'importanza della connessione tra comunità, natura e tecnologia per creare un futuro sostenibile e inclusivo.
+Benvenuto nel laboratorio digitale di **SenioXtreme**!
 
-Il nostro obiettivo è favorire la partecipazione attiva della comunità in attività che migliorano il territorio e la vita delle persone, attraverso progetti che spaziano dal volontariato alle iniziative digitali.
+## 🧪 Perché siamo qui
+Siamo convinti che anche un’associazione locale possa usare strumenti digitali seri — e open source — per lavorare meglio, automatizzare la burocrazia e ridurre al minimo il rischio di **panic-debug a 5 minuti dall'evento**.
 
+## 🤝 Collaborazioni
+Se sei uno sviluppatore, designer o solo uno con idee e voglia di contribuire: forkaci, clonaci, apri una PR.
 
-## Come Partecipare
-
-Se sei interessato a collaborare o partecipare alle nostre attività, visita [il nostro sito](https://senioxtreme.it) o esplora i nostri progetti qui su GitHub.
+> Built with caffeina, not-found errors e amore per le cose fatte bene.
