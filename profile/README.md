@@ -28,12 +28,4 @@ All our public repositories are released under the **MIT License**, unless other
 
 ---
 
-## 🌍 Connect with Us
-
-- 🌐 Website: [https://senioxtreme.it](https://senioxtreme.it)  
-- 🧑‍💻 GitHub: [github.com/senioxtreme](https://github.com/senioxtreme)  
-- 📷 Instagram: [@senioxtreme](https://instagram.com/senioxtreme)
-
----
-
 > _Built by volunteers. Powered by open source. Inspired by our mountains._
