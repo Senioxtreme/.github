@@ -1,3 +1,5 @@
+# Open Source is ♥
+
 **SenioXtreme** is a registered **nonprofit association based in Palazzuolo sul Senio, Italy**, promoting outdoor sports, environmental awareness, and digital innovation for our local community.
 
 We build **open and community-driven digital tools** that support local events, weather monitoring, and civic engagement — all powered by open-source software.
